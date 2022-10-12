@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+    
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Stylish', sans-serif;
+}
+body{
+    background-color: #edf5e1;
+}
+.container{
+    font-size: 20px;
+    text-indent: 50px;
+}
+

@@ -1,0 +1,20 @@
+.first{
+    height:100vh; 
+    padding-top: 5%;
+}
+.first img{
+    width: 100vw;
+    height: 100vh;
+      
+}
+#head{
+    text-align: left;
+    font-size: 100%;
+    line-height: 200%;
+    color:#f2f2f2;
+    position: relative;
+    top:-80%;
+    right: -25%;
+    width: 30%;
+    text-shadow: 2px 2px black;
+}
